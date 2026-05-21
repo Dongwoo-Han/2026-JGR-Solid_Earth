@@ -15,7 +15,7 @@ where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_0=1.367 \times 10^{-4} \ ^{\circ
 
 For the Nankai/Tohoku_rhoTP_Calculated_SeafloorHeatflow, the fluid density was defined as,  
 $\rho_f = \rho_{f0}(1-\alpha_0T + \beta p_0)$,  
-where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_2 \times 10^{-4} \ ^{\circ} C^{-1}$, $\beta=4 \times 10^{-10} Pa^{-1}$, and $p_0 = \rho_{f0} \lVert \mathbf{g} \rVert (-y)$ (Vallis, 2017).  
+where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_2 \times 10^{-4} \ ^{\circ} C^{-1}$, $\beta=4 \times 10^{-10} \ Pa^{-1}$, and $p_0 = \rho_{f0} \lVert \mathbf{g} \rVert (-y)$ (Vallis, 2017).  
   
 ### References
 Kawada, Y., M. Yamano, and N. Seama (2014), Hydrothermal heat mining in an incoming oceanic plate due to aquifer thickening: Explaining the high heat flow anomaly observed around the Japan Trench, Geochemistry, Geophysics, Geosystems, 15(4), 1580-1599.  
