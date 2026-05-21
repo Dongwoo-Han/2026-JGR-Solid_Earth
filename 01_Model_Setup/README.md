@@ -7,7 +7,7 @@ The content of each file can be identified by the file name, as described below
 
 **03. BC Test Results:** The calculated seafloor heat flow from the models with a different bottom boundary conditions (insulated & constant temperature corresponding to the initial slab temperature at 40-km depth) ($mW \ m^{-2}$).  
 
-**04. rho_fluid Results:** The calculated seafloor heat flow from the models with a different fluid density ($mW \ m^{-2}$).  
+**04. rho_fluid Test Results:** The calculated seafloor heat flow from the models with a different fluid density ($mW \ m^{-2}$).  
 
 For the Nankai/Tohoku_rhoT_Calculated_SeafloorHeatflow, the fluid density was defined as,  
 $\rho_f = \rho_{f0}(1-\alpha_0T-\alpha_1T^2)$,  
