@@ -5,10 +5,12 @@ The content of each file can be identified by the file name, as described below
 **02. PermeabilityProfile:** log10(permeability) (m-2) - Figures 4 and 5  
 **03. BC Tests Results:** The calculated seafloor heat flow from the models with a different bottom boundary conditions (insulated & constant temperature corresponding to the initial slab temperature at 40-km depth).
 **04. rho_fluid Restuls:** The calculated seafloor heat flow from the models with a different fluid density.  
-For the Nankai/Tohoku_rhoT_Calculated_SeafloorHeatflow, the fluid density is a function of temperature, as given by,  
+For the Nankai/Tohoku_rhoT_Calculated_SeafloorHeatflow, the fluid density was defined as,  
 $\rho_f = \rho_{f0}(1-\alpha_0T-\alpha_1T^2)$,  
-where $\rho_{f0}=1036.5 kg \ m^{-3}$, $\alpha_0=1.367 \times 10^{-4} \ ^{\circ} C^{-1}$, and $\alpha_1=2.159 \times 10^{-6} \ ^{\circ} C^{-2}$  
-
+where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_0=1.367 \times 10^{-4} \ ^{\circ} C^{-1}$, and $\alpha_1=2.159 \times 10^{-6} \ ^{\circ} C^{-2}$.  
+For the Nankai/Tohoku_rhoTP_Calculated_SeafloorHeatflow, the fluid density was defined as,  
+$\rho_f = \rho_{f0}(1-\alpha_0T\beta p_0)$,  
+where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_0=2 \times 10^{-4}$ $^{\circ}$C$^{-1}$, and $\beta=4 \times 10^{-10}$ Pa$^{-1}$
 
 
 
