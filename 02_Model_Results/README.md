@@ -10,13 +10,19 @@ Please note that MuPrimeXXX is not included in the file names of the permeabilit
 Each file has either two (x-coordinate (km) and data) or three (x- and y- coordinates (km), and data) columns.
 
 ## DataType  
-**01. PercentageImprovement:** percentage improvement of the calculated seafloor heat flow of the best-fit models compared to those calculated from the non-HC models (%) - Figure 5  
-**02. CalculatedSeafloorHeatFlow:**: calculated seafloor heat flow averaged every 2.5 km (mW m-2) - Figures 6 and 7 & Supplementary Figure 1-8  
-**03. Temperature:** temperature distribution (Kelvin) - Figures 7, 8 and S10    
-**04. Vx:** pore fluid velocity in x-direction (m s-1) - Figures 7, 8 and S10   
-**05. Vy:** pore fluid velocity in y-direction (m s-1) - Figures 7, 8 and S10     
-**06. AquiferTemperature**: temperature along the top boundary of the aquifer averaged every 2.5 km (degC) - Figures 7, 8 and S10  
-**07. PlateInterfaceTemperature**: temperature along the plate interface (top of the sediment) averaged every 2.5 km (degC) - Figure S9 
+**01. PercentageImprovement:** percentage improvement of the calculated seafloor heat flow of the best-fit models compared to those calculated from the non-HC models ($%$) - Figure 5  
+
+**02. CalculatedSeafloorHeatFlow:**: calculated seafloor heat flow averaged every 2.5 km ($mW \ m^{-2}$) - Figures 6, 7 & S1-S8   
+
+**03. Temperature:** temperature distribution ($Kelvin$) - Figures 7, 8 and S10    
+
+**04. Vx:** pore fluid velocity in x-direction ($m \ s^{-1}$) - Figures 7, 8 and S10   
+
+**05. Vy:** pore fluid velocity in y-direction ($m \ s^{-1}$) - Figures 7, 8 and S10     
+
+**06. AquiferTemperature**: temperature along the top boundary of the aquifer averaged every 2.5 km ($ ^{\circ} C^{-1}$) - Figures 7, 8 and S10  
+
+**07. PlateInterfaceTemperature**: temperature along the plate interface (top of the sediment) averaged every 2.5 km ($ ^{\circ} C^{-1}$) - Figure S9 
  
 
 
