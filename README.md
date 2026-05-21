@@ -5,4 +5,4 @@ This repository contains the data used for figures regarding the manuscript titl
   
 **02_Model Results** includes the results calculated from the models (fluid velocity, temperature, seafloor heat flow, and percentage improvement).
   
-Each directory includes a *README* file for further details.
+Each directory includes a *README* file for further details. 

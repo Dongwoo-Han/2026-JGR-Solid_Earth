@@ -14,7 +14,7 @@ $\rho_f = \rho_{f0}(1-\alpha_0T-\alpha_1T^2)$,
 where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_0=1.367 \times 10^{-4} \ ^{\circ} C^{-1}$, and $\alpha_1=2.159 \times 10^{-6} \ ^{\circ} C^{-2}$ (Kawada et al., 2014).    
 
 For the Nankai/Tohoku_rhoTP_Calculated_SeafloorHeatflow, the fluid density was defined as,  
-$\rho_f = \rho_{f0}(1-\alpha_0T\beta p_0)$,  
+$\rho_f = \rho_{f0}(1-\alpha_0T + \beta p_0)$,  
 where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_2 \times 10^{-4} \ ^{\circ} C^{-1}$, and $\beta=4 \times 10^{-10} Pa^{-1}$ (Vallis, 2017)  
   
 ### References
