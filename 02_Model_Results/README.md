@@ -15,6 +15,8 @@ Each file has either two (x-coordinate (km) and data) or three (x- and y- coordi
 **03. Temperature:** temperature distribution (Kelvin) - Figures 7, 8 and S10    
 **04. Vx:** pore fluid velocity in x-direction (m s-1) - Figures 7, 8 and S10   
 **05. Vy:** pore fluid velocity in y-direction (m s-1) - Figures 7, 8 and S10     
-**06. AquiferTemperature**: temperature along the top boundary of the aquifer averaged every 2.5 km (Kelvin) - Figures 6 and 7  
+**06. AquiferTemperature**: temperature along the top boundary of the aquifer averaged every 2.5 km (degC) - Figures 7, 8 and S10  
+**07. PlateInterfaceTemperature**: temperature along the plate interface (top of the sediment) averaged every 2.5 km (degC) - Figure S9 
+ 
 
 
