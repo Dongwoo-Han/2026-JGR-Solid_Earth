@@ -17,7 +17,7 @@ For the Nankai/Tohoku_rhoTP_Calculated_SeafloorHeatflow, the fluid density was d
 $\rho_f = \rho_{f0}(1-\alpha_0T\beta p_0)$,  
 where $\rho_{f0}=1036.5 \ kg \ m^{-3}$, $\alpha_2 \times 10^{-4} \ ^{\circ} C^{-1}$, and $\beta=4 \times 10^{-10} Pa^{-1}$ (Vallis et al., 2017)  
   
-**References**
+### References
 Kawada, Y., M. Yamano, and N. Seama (2014), Hydrothermal heat mining in an incoming oceanic plate due to aquifer thickening: Explaining the high heat flow anomaly observed around the Japan Trench, Geochemistry, Geophysics, Geosystems, 15(4), 1580-1599.  
 
 Lee, C., and Y. Kim (2021), Role of warm subduction in the seismological properties of the forearc mantle: An example from southwest Japan, Science Advances, 7(28), eabf8934.  
