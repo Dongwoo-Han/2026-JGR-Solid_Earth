@@ -5,7 +5,6 @@ The content of each file can be identified by the file name, as described below
 - SubductionZone is either Nankai or Tohoku  
 - ModelConditions is either non-HC_Model, BestFitModels, or MuPrimeXXX_KaYYYm2_xswZZZkm.  
 XXX, YYY, and ZZZ are the values used for each parameter in the models.  
-Please note that MuPrimeXXX is not included in the file names of the permeability data.
 
 Each file has either two (x-coordinate (km) and data) or three (x- and y- coordinates (km), and data) columns.
 
