@@ -9,7 +9,7 @@ XXX, YYY, and ZZZ are the values used for each parameter in the models.
 Each file has either two (x-coordinate (km) and data) or three (x- and y- coordinates (km), and data) columns.
 
 ## DataType  
-**01. PercentageImprovement:** percentage improvement of the calculated seafloor heat flow of the best-fit models compared to those calculated from the non-HC models ($%$) - Figure 5  
+**01. PercentageImprovement:** percentage improvement of the calculated seafloor heat flow of the best-fit models compared to those calculated from the non-HC models (%) - Figure 5  
 
 **02. CalculatedSeafloorHeatFlow:**: calculated seafloor heat flow averaged every 2.5 km ($mW \ m^{-2}$) - Figures 6, 7 and S1-S8   
 
